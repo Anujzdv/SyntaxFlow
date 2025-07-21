@@ -62,7 +62,7 @@ Feel free to open an issue or create a pull request.
 
 ## 📧 Contact Us
 
-Made with ❤️ by Students  
+Made with ❤️ by Anuj Kumar <br>
 For questions or feedback: **anujzdv@gmail.com**
 
 ---
